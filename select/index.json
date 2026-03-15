@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Shout it out！",
+  "base_artist": "青木陽菜",
+  "createdAt": "2026-03-15T14:40:16.079406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shout It Out Loud",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_Shout_It_Out_Loud_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shout It Out",
+      "artist": "Fifth Angel",
+      "has_synced": false,
+      "path": "select/02_Shout_It_Out_Fifth_Angel.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shout It Out",
+      "artist": "Warlock",
+      "has_synced": false,
+      "path": "select/03_Shout_It_Out_Warlock.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shout It Out",
+      "artist": "Grave Digger",
+      "has_synced": false,
+      "path": "select/04_Shout_It_Out_Grave_Digger.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shout It Out",
+      "artist": "Exciter",
+      "has_synced": true,
+      "path": "select/05_Shout_It_Out_Exciter.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shout It Out",
+      "artist": "Grace Potter",
+      "has_synced": true,
+      "path": "select/06_Shout_It_Out_Grace_Potter.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shout It Out",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/07_Shout_It_Out_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shout It Out",
+      "artist": "Uriah Heep",
+      "has_synced": false,
+      "path": "select/08_Shout_It_Out_Uriah_Heep.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shout It Out",
+      "artist": "Kingdom Come",
+      "has_synced": true,
+      "path": "select/09_Shout_It_Out_Kingdom_Come.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shout It Out Loud",
+      "artist": "Kiss",
+      "has_synced": false,
+      "path": "select/10_Shout_It_Out_Loud_Kiss.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shout It Out Loud",
+      "artist": "Crucified Barbara",
+      "has_synced": true,
+      "path": "select/11_Shout_It_Out_Loud_Crucified_Barbara.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shout It Out Loud * Bonus Track",
+      "artist": "Crucified Barbara",
+      "has_synced": true,
+      "path": "select/12_Shout_It_Out_Loud___Bonus_Track_Crucified_Barbara.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shout it Out (Instrumental)",
+      "artist": "David Lindgren",
+      "has_synced": false,
+      "path": "select/13_Shout_it_Out_(Instrumental)_David_Lindgren.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shout It Out Loud - Live At The Forum, Los Angeles/1977",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/14_Shout_It_Out_Loud_-_Live_At_The_Forum,_Los_Angeles_1977_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shout It Out Loud (New Video Version)",
+      "artist": "KISS",
+      "has_synced": true,
+      "path": "select/15_Shout_It_Out_Loud_(New_Video_Version)_KISS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shout It Out Loud (Live)",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/16_Shout_It_Out_Loud_(Live)_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shout It Out",
+      "artist": "Elvis Presley Cd24 Of 50",
+      "has_synced": false,
+      "path": "select/17_Shout_It_Out_Elvis_Presley_Cd24_Of_50.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shout it out!",
+      "artist": "青木陽菜",
+      "has_synced": false,
+      "path": "select/pl_01_Shout_it_out!_青木陽菜.txt"
+    }
+  ]
+}
